@@ -1,0 +1,12 @@
+{
+	"title": "DirectFB Example",
+	"id": "org.webosinternals.dfbexample",
+	"version": "0.0.1",
+	"release_date":	"12-Sep-2009",
+	"vendor": "WebOS Internals",
+	"vendor_email":	"support@webos-internals.org",
+	"vendor_url": "http://www.webos-internals.org/wiki/Application:DFBAdapter",
+	"type": "web",
+	"main": "index.html",
+	"icon": "icon.png",
+}
